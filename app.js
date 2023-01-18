@@ -92,6 +92,4 @@ todoInput.addEventListener("keydown",(e)=> {
 })
 window.onload = function (){
     todoInput.focus();
-   
-    
 }
